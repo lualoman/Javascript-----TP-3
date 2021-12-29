@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Esta es mi página web con Javascript
+Externo</title>
+<script type="text/JavaScript" src="script2.js"></script>
+</head>
+<body>
+"Hola Mundo"
+</body>
+</html>
