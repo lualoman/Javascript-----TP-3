@@ -1,0 +1,11 @@
+<html>
+</head>
+<script type="text/JavaScript" src="scriptej14.js"></script>
+</head>
+<body>
+<form name="formulario">
+<input name="texto" type="text" id="texto"/>
+<input type="button" name="Accion" onClick="mostrar_ocultar()" value="Ocultar"/>
+</form>
+</body>
+</html>
